@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # --- DADOS CONHECIDOS (GABARITO) ---
-NOME_ARQUIVO = r"C:\Users\usuario\OneDrive - Engine Tecnologia\Projetos\Python\Aquicultura\FatorCondicao\imagens\Frente_azul.png"
-COMPRIMENTO_REAL_CM = 15.0  # O valor que você afirmou ser a verdade
+NOME_ARQUIVO = r"C:\Users\usuario\OneDrive - Engine Tecnologia\Projetos\Python\Aquicultura\FatorCondicao\imagens\Lateral_sem_fundo.png"
+COMPRIMENTO_REAL_CM = 38.0  # O valor que você afirmou ser a verdade
 
 
 def calibrar_e_medir():
